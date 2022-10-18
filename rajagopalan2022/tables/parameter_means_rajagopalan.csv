@@ -1,0 +1,25 @@
+model,alpha,alpha_h,alpha_r,gamma,intercept,kappa,kappa_r,tau,theta,theta_h,theta_r,weight,weight_b,weight_h,weight_r
+ Long-Term Omission Sensitive Q Learning ,0.138,,,0.667,-5.255,,,,0.335,,,1.825,,,
+Differential Extinction Immediate Q Learning,0.088,,,,-2.913,,,0.045,,,,2.393,,,
+Differential Extinction Long-Term Q Learning,0.16,,,0.817,-5.237,,,0.16,,,,1.239,,,
+Differential Forgetting Immediate Habit-Value Arbiter Q-Learning,,0.104,0.397,,-2.405,,0.157,,,0.861,0.776,3.018,0.096,-0.176,0.131
+Differential Forgetting Immediate Omission Sensitive Q Learning ,0.228,,,,-2.652,0.064,,,0.568,,,2.874,,,
+Differential Forgetting Immediate Q-Learning,0.093,,,,-2.34,0.265,,,,,,3.071,,,
+Differential Forgetting Long-Term Habit-Value Arbiter Q-Learning,,0.758,0.223,0.702,-2.641,,0.045,,,0.692,0.829,2.191,-0.345,0.8,0.293
+Differential Forgetting Long-Term Omission Sensitive Q Learning ,0.259,,,0.461,-2.872,0.055,,,0.423,,,1.989,,,
+Differential Forgetting Long-Term Q Learning,0.254,,,0.721,-2.18,0.083,,,,,,1.44,,,
+Expected SARSA,0.146,,,0.84,-4.978,,,,,,,1.377,,,
+Forgetting Immediate Habit-Value Arbiter Q-Learning,,0.227,0.244,,-2.287,,,,,0.78,0.875,3.143,-0.051,0.728,0.03
+Forgetting Immediate Omission Sensitive Q Learning ,0.145,,,,-2.07,,,,0.343,,,2.54,,,
+Forgetting Immediate Q-Learning,0.131,,,,-2.099,,,,,,,2.477,,,
+Forgetting Long-Term Habit-Value Arbiter Q-Learning,,0.583,0.167,0.404,-2.031,,,,,0.697,0.874,2.667,-0.282,1.174,-0.038
+Forgetting Long-Term Omission Sensitive Q Learning ,0.159,,,0.331,-1.946,,,,0.249,,,2.067,,,
+Forgetting Long-Term Q Learning,0.173,,,0.595,-1.714,,,,,,,1.788,,,
+Forgetting RPE-free Q-Learning,0.416,,,,-1.232,,,,,,,0.661,,,
+Immediate Habit-Value Arbiter Q Learning,,0.124,0.373,,-2.661,,,,,0.912,0.548,3.018,-0.12,-1.32,-0.793
+Immediate Omission Sensitive Q Learning ,0.087,,,,-4.095,,,,0.533,,,3.577,,,
+Immediate Q-Learning,0.063,,,,-2.571,,,,,,,2.537,,,
+Long-Term Habit-Value Arbiter Q-Learning,,0.18,0.25,0.639,-3.314,,,,,0.867,0.72,2.696,-0.286,-1.051,0.076
+Long-Term Q Learning,0.161,,,0.822,-5.287,,,,,,,1.225,,,
+RPE-free Q-Learning,0.489,,,,-1.216,,,,,,,0.654,,,
+SARSA,0.157,,,0.828,-4.698,,,,,,,1.196,,,
